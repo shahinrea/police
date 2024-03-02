@@ -1,0 +1,37 @@
+/* padding of  Recent Activities   section */
+.recent-section-left-padding {
+  padding-left: 0px;
+}
+.recent-section-right-padding {
+  padding-right: 0px;
+}
+
+/* notice section new design and css  */
+.notice-new-items-desgin {
+  display: flex;
+  gap: 5px;
+  font-size: 14px;
+}
+.notice-new-items-desgin-fa-caret-right {
+  font-size: 16px;
+}
+.notice-section-more-btn-margin {
+  margin-bottom: 8px;
+}
+
+/* Youtube videos section css */
+.home-page-youtube-video-title-desgin {
+  padding: 0px 15px;
+  text-align: left;
+  color: white;
+  margin-top: 20px;
+}
+.home-page-youtube-video-title-desgin h4 {
+  background-color: #131b43;
+  color: white;
+  padding: 11px 8px;
+}
+.right-e-learning-section-background {
+  background-color: #131b43 !important;
+  color: white;
+}
